@@ -3,10 +3,10 @@
 
 ## 🛠️ 주요기능  
 ### 40가지 이상의 다양한 기능들!
-- GPT AI
-![b1](https://github.com/1325ok/md-save/assets/93064596/5b5e3f28-ff7a-4fb6-91a0-d4b72daef767)
-- 번역 by Google Translate
-![b2](https://github.com/1325ok/md-save/assets/93064596/ed1f68ac-286e-48b5-b2d3-3bc67d1db518)
+- GPT AI   
+![b1](https://github.com/1325ok/md-save/assets/93064596/5b5e3f28-ff7a-4fb6-91a0-d4b72daef767)   
+- 번역 by Google Translate   
+![b2](https://github.com/1325ok/md-save/assets/93064596/ed1f68ac-286e-48b5-b2d3-3bc67d1db518)   
 - AI가 그리는 그림   
 - 아프리카TV 도구(방송 시청자수 순위,랜덤 방송 추천)
 - 발로란트 스킨,무기,랭킹 순위 확인   
